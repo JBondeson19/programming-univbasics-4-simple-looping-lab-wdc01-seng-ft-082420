@@ -9,9 +9,8 @@ puts message
 end
 
 
-
-  number == 5
-    message == "Hello Moon."
   while message[number] do
+    number == 5
+    message == "Hello Moon."
     puts message
   end
